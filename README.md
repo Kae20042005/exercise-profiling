@@ -5,7 +5,7 @@
 ![all-student test plan](img/test_all_student.png)
 <br> Test plan for all student
 
-![all-student-name test plan](img/test_all_student-name.png)
+![all-student-name test plan](img/test_student_name.png)
 <br> Test plan for all student name
 
 ![highest-gpa test plan](img/test_highest_gpa.png)
